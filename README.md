@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` graduated from ITSU, with one year of experience 
+- :school: I am a `Junior` graduated from ITSU, with two year of experience 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `PHP`, `JAVASCRIPT`, `YII2`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
