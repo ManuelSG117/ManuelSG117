@@ -32,7 +32,7 @@
 
 
 #### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>]([https://sass-lang.com/](https://dotnet.microsoft.com/es-es/languages/csharp))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=astro"/>]([[https://sass-lang.com/](https://dotnet.microsoft.com/es-es/languages/csharp](https://astro.build/)))
 
 
 #### Tools:
