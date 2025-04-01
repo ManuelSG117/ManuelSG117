@@ -12,7 +12,7 @@
 
 - :school: I am a `Junior` graduated from ITSU, with two year of experience 
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `PHP`, `JAVASCRIPT`, `YII2`.
+- :computer: I am a competitive programmer at `PHP`, `JAVASCRIPT`, `Firebase` `Google Play Console`, `Astro`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 
