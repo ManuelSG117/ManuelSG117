@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` graduated from ITSU, with two year of experience 
+- :school: I am a `FullStack Jr` graduated from ITSU, with two year of experience 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `PHP`, `JAVASCRIPT`, `Firebase` `Google Play Console`, `Astro`.
 - :student: I’m currently learning `Astro` and `NextJS`.
